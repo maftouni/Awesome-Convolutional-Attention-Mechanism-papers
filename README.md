@@ -3,7 +3,7 @@
 ## Image Classfication
 | Year | Title | Authors | Links | 
 | --- | --- | --- | --- |
-| 2017 | Convolutional Sequence to Sequence Learning | --- | --- |
+| 2017 | Residual Attention Network for Image Classification | Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang | [paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Wang_Residual_Attention_Network_CVPR_2017_paper.html) |
 | 2018 | Squeeze-and-Excitation Networks | --- | --- |
 
 ## Video Object Segmentation
