@@ -16,5 +16,5 @@
 ## Video Object Segmentation
 | Year | Title | Authors | Links | 
 | --- | --- | --- | --- |
-| 2017 | Convolutional Sequence to Sequence Learning | Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin | [paper](https://arxiv.org/abs/1705.03122) |
+| 2019 | Symmetry Encoder-Decoder Network with Attention Mechanism for Fast Video Object Segmentation | Mingyue Guo,Dejun Zhang,Jun Sun, Yiqi Wu | [paper](https://www.mdpi.com/2073-8994/11/8/1006) |
 
