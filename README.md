@@ -24,6 +24,8 @@
 | 2019 | Symmetry Encoder-Decoder Network with Attention Mechanism for Fast Video Object Segmentation | Mingyue Guo,Dejun Zhang,Jun Sun, Yiqi Wu | [paper](https://www.mdpi.com/2073-8994/11/8/1006) |
 | 2019 | RANet: Ranking Attention Network for Fast Video Object Segmentation | Ziqin Wang, Jun Xu, Li Liu, Fan Zhu, Ling Shao | [paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_RANet_Ranking_Attention_Network_for_Fast_Video_Object_Segmentation_ICCV_2019_paper.html) [code](https://github.com/Storife/RANet)|
 | 2019 | Learning Unsupervised Video Object Segmentation Through Visual Attention | Wenguan Wang, Hongmei Song, Shuyang Zhao, Jianbing Shen, Sanyuan Zhao, Steven C. H. Hoi, Haibin Ling | [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Learning_Unsupervised_Video_Object_Segmentation_Through_Visual_Attention_CVPR_2019_paper.html) [code](https://github.com/wenguanwang/AGS)|
+| 2019 | Video Object Segmentation Using Space-Time Memory Networks | Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim | [paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Oh_Video_Object_Segmentation_Using_Space-Time_Memory_Networks_ICCV_2019_paper.html) [code](https://github.com/seoungwugoh/STM)|
+| 2020 | Collaborative Video Object Segmentation by Foreground-Background Integration | Zongxin Yang, Yunchao Wei, Yi Yang | [paper](https://arxiv.org/abs/2003.08333) [code](https://github.com/z-x-yang/CFBI)|
 
 
 
