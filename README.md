@@ -16,5 +16,6 @@
 ## Video Object Segmentation
 | Year | Title | Authors | Links | 
 | --- | --- | --- | --- |
+| 2018 | Attention U-Net: Learning Where to Look for the Pancreas | Ozan Oktay, Jo Schlemper, Loic Le Folgoc, Matthew Lee | [paper](https://www.mdpi.com/2073-8994/11/8/1006) |
 | 2019 | Symmetry Encoder-Decoder Network with Attention Mechanism for Fast Video Object Segmentation | Mingyue Guo,Dejun Zhang,Jun Sun, Yiqi Wu | [paper](https://www.mdpi.com/2073-8994/11/8/1006) |
 
