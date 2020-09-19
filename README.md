@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | 2017 | Convolutional Sequence to Sequence Learning | Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin | [paper](https://arxiv.org/abs/1705.03122) |
 
-## Image Classfication/ Object Detection
+## Image Classfication/ Object Detection/Semantic Segmentation 
 | Year | Title | Authors | Links | 
 | --- | --- | --- | --- |
 | 2017 | Residual Attention Network for Image Classification | Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang | [paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Wang_Residual_Attention_Network_CVPR_2017_paper.html) |
@@ -12,7 +12,8 @@
 | 2018 | Learn To Pay Attention | Saumya Jetley, Nicholas A. Lord, Namhoon Lee, Philip H.S. Torr | [paper](https://arxiv.org/abs/1804.02391) |
 | 2018 | CBAM: Convolutional Block Attention Module | Sanghyun Woo , Jongchan Park , Joon-Young Lee, In So Kweon | [paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.html) |
 | 2018 | Attention U-Net: Learning Where to Look for the Pancreas | Ozan Oktay, Jo Schlemper, Loic Le Folgoc, Matthew Lee, Mattias Heinrich, Kazunari Misawa, Kensaku Mori, Steven McDonagh, Nils Y Hammerla, Bernhard Kainz, Ben Glocker, Daniel Rueckert| [paper](https://arxiv.org/abs/1804.03999) |
-| 2018 | Attention-Gated Networks for Improving Ultrasound Scan Plane Detection | Jo Schlemper, Ozan Oktay, Liang Chen, Jacqueline Matthew, Caroline Knight, Bernhard Kainz, Ben Glocker, Daniel Rueckert| [paper](https://arxiv.org/abs/1804.05338) |
+| 2018 | Attention-Gated Networks for Improving Ultrasound Scan Plane Detection | Jo Schlemper, Ozan Oktay, Liang Chen, Jacqueline Matthew, Caroline Knight, Bernhard Kainz, Ben Glocker, Daniel Rueckert| [paper](https://arxiv.org/abs/1804.05338) | 
+| 2019 | Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation | Tianyi Zhang , Guosheng Lin , Jianfei Cai , Senior Member, IEEE, Tong Shen, Chunhua Shen , Alex C. Kot | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8705324)
 | 2020 | Improving Object Detection with Inverted Attention | Zeyi Huang ; Wei Ke ; Dong Huang | [paper](https://ieeexplore.ieee.org/abstract/document/9093507) |
 | 2020 | Object detection based on an adaptive attention mechanism | Wei Li, Kai Liu, Lizhe Zhang, Fei Cheng | [paper](https://www.nature.com/articles/s41598-020-67529-x)|
 
